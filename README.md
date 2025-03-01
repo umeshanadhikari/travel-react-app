@@ -47,3 +47,7 @@ In the project directory, you can run:
 ## Learn More
 
 To learn more about React, check out the [React documentation](https://reactjs.org/).
+
+## Live Demo 🚀  
+Check out the live demo here: [Travel website](https://umeshanadhikari.github.io/travel-react-app/)
+
