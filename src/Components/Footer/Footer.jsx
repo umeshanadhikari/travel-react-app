@@ -162,6 +162,7 @@ const Footer = () => {
 
           <div className="footerDiv flex">
             <small>BEST TRAVEL WEBSITE THEME</small>
+            <small>BY UMESHAN CHANUKA</small>
           </div>
         </div>
       </div>

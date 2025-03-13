@@ -195,7 +195,8 @@
 			}
 
 			.cardDiv{
-				grid-template-columns: repeat(2,1fr);
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
 			}
 		}
 	}
@@ -214,9 +215,9 @@
 	
 }
 
-@media screen and (min-width: 660px) {
+@media screen and (min-width: 940px) {
 	.home{
-		height: 70vh;
+		height: 85vh;
 	}
 	
 }
